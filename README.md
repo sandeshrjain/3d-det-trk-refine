@@ -1,5 +1,5 @@
-# 3d-det-trk-refine
-3D Object Detection and Tracking Refinement with Ensemble Methods and Spatiotemporal Filtering
+# 3D Detection and Track Refinement 
+3D Object Detection and Tracking Refinement with Ensemble Methods and Spatiotemporal Filtering (repo construction in progress)
 
 # 3D Object Detection and Tracking Refinement
 
