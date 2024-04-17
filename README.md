@@ -24,8 +24,8 @@ To run the detection refinement script, you'll need to install the following dep
 ### Usage
 
 1. Install OpenPCDet and Cylinder3D as per their respective repositories.
-2. Download pre-trained models and configure paths in the `detection_refinement.py` script.
-3. Run `official_det_refine.py` to refine detection results using spherical and K-means filtering.
+2. Download pre-trained models and configure paths in the `official_det_refine.py` script.
+3. Run `official_det_refine.py` to refine detection results using spherical or K-means filtering.
 
 ## Tracker Refinement and Evaluation
 
@@ -43,5 +43,5 @@ To run the tracker refinement and evaluation script, you'll need to install:
 ### Usage
 
 1. Install AB3DMOT by following the instructions in the AB3DMOT repository.
-2. Configure paths and parameters in the `tracker_refinement.py` script.
+2. Configure paths and parameters in the `official_adrit.py` script.
 3. Run `official_adrit.py` to refine object trajectories and evaluate tracking performance.
