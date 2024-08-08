@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Oct 25 21:02:04 2023
-@author: Anonymos
+@author: Anonymous
 """
 
 import os
